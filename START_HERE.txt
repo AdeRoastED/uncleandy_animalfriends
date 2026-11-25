@@ -1,0 +1,18 @@
+UNCLE ANDY ANIMAL FRIENDS — PRIVATE FULL-ACCESS TEST EDITION
+Adeba Studio
+
+1. Extract the entire ZIP into a new folder.
+2. Double-click index.html (Chrome or Edge recommended).
+3. Select Let's play. All 30 friends and all 9 worlds are open in this test edition.
+4. To try the free version, go to the grown-up corner (lock button), answer the arithmetic question, and untick Preview all worlds this session. Reloading reopens all worlds.
+5. Keep the folder structure intact: audio and art files are loaded from their folders. For an installable PWA, host the entire folder over HTTPS; a file:// preview cannot install a service worker.
+
+Try the animal worlds, all three games, stories, quiet reading, story search, favourites, passport, colouring pages, Italian animal guide and parent controls. Use the sound-review list in the grown-up corner to check audio quality. Local device speech is used for missing narration when an English voice is available.
+
+This is a PRIVATE TEST build, not a production app. No purchases or payments are enabled. No ads or subscriptions. The proposed all-worlds price is not a live store price. Do not distribute publicly before reviewing audio rights and authenticity, implementing store billing, and disabling private preview. The production version must remove private preview controls, not just change TEST_EDITION.
+
+Known incomplete items: polar bear and fennec fox recordings, professional narration, full-page bespoke story artwork, full translations, real store purchases, licensing and physical device/PWA tests. Italian guide is not a full translation. Existing recordings are review candidates, not licensed/verified calls.
+
+Checks for this build: local Chromium HTML rendering, all 300 story pages and 270 discovery interactions, default full access and free-mode toggle, story search, quiet reading, sound-off quiz, all three game screens, 30 colouring entries, 30 Italian guide entries, 320/390/768/1024px widths, no JavaScript errors during checks. All original story data, art and existing MP3s preserved. Cache inventory paths checked. Real device speech, playback and installation not verified.
+
+NEW: Resume unfinished stories directly from Home, remember quiet reading on this device, improved picture-clue feedback and accessible control names. Separate free-experience rehearsal is supplied for locked-world testing.
