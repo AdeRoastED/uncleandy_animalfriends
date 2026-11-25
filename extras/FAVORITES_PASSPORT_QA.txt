@@ -1,0 +1,7 @@
+Favourites, passport and read-along update
+- Favourite animals and story shortcuts, saved locally, included in progress backups. Locked worlds remain locked.
+- Passport: one stamp after meeting every animal in a world; no streaks or pressure.
+- Optional text chunk highlighting follows actual onstart callbacks of local device speech. Recorded narration has no timing metadata, so it is not highlighted.
+- Previous stories and 30 MP3 files are byte-identical.
+- Chromium test with locally injected HTML and mocked localStorage: favourite add/save/return, nine passport worlds, backup validation including legacy backups, all 300 story pages, simulated speech highlighting/cancellation; no page errors. Direct browser navigation blocked by environment; real device speech, PWA offline installation, payments, licensing and audio content review remain unverified.
+- Still missing: polar bear and fennec fox recordings, professional narration, per-scene illustrations, translations, native billing. No ads or subscriptions added.

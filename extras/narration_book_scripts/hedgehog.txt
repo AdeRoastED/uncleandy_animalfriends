@@ -1,0 +1,78 @@
+NICO'S LEAFY DOOR
+Narration script • English
+Record each page separately. Read only the story text; do not read labels or filenames.
+The welcome is shared; use 00-welcome.txt once.
+
+================================================
+Morning · page 1
+Target: audio/bedtime/hedgehog-page-02.mp3
+Nico's Morning — 1
+
+Nico was taking his final nighttime stroll when the first light appeared above the garden. He snuffled beneath a hedge, looking for beetles. A little gap between two roots led into a quiet corner of the garden. “A secret door!” he whispered, squeezing through before returning to his nest of dry leaves.
+
+================================================
+Morning · page 2
+Target: audio/bedtime/hedgehog-page-03.mp3
+Nico's Morning — 2
+
+His spines were excellent protection, but they were not much use as a pillow. So Nico turned carefully in his sheltered nest until his soft underside rested against the leaves. He remembered the gap beneath the hedge, just in case he wanted to visit the garden again that night. Then he yawned.
+
+Before going to sleep, Nico remembered the gap between the roots he had passed on his nighttime walk. The earth beneath the hedge was a little higher there, and a few dry leaves lay along the opening. He had sniffed it out while investigating the garden. It was not his usual path, but he could fit through it comfortably. He made a mental note, then wriggled deeper into his leafy nest. A hedgehog's busy night did not have to follow exactly the same route every time. There were plenty of interesting corners to discover.
+
+================================================
+Morning · page 3
+Target: audio/bedtime/hedgehog-page-04.mp3
+Nico's Morning — 3
+
+A blackbird began to sing above him. Nico listened sleepily. Hedgehogs are mainly active at night, and he was ready for a long daytime rest. “Lovely song,” he murmured, “but perhaps a little quieter for your neighbour.” The blackbird did not understand a word, and Nico soon fell asleep anyway.
+
+================================================
+Afternoon · page 1
+Target: audio/bedtime/hedgehog-page-05.mp3
+Nico's Afternoon — 1
+
+By afternoon, rain was dripping from the garden plants. Nico stayed warm beneath his shelter. Outside, a shallow puddle grew across his usual route, spreading from the path to a patch of grass.
+
+The rain continued while Nico slept. Outside, the shallow puddle spread along the familiar path and covered some of the places where he usually looked for food. A leaf floated across it, turning slowly like a little boat. The higher ground beneath the hedge stayed much drier. Nico stirred inside his nest, listened to a particularly loud drip, and settled down again. He did not know that the little gap he had noticed in the morning would be rather useful when he began his next nighttime adventure.
+
+When the sun began to set, the rain stopped, leaving little sparkling droplets on the hedge.
+
+================================================
+Afternoon · page 2
+Target: audio/bedtime/hedgehog-page-06.mp3
+Nico's Afternoon — 2
+
+Nico woke hungry and emerged into the evening. He stopped when he reached the puddle. “Someone has installed a swimming pool!” he exclaimed. Rather than trying to push through the water, he remembered the little door between the roots. He turned back along the hedge and found the gap still open.
+
+================================================
+Afternoon · page 3
+Target: audio/bedtime/hedgehog-page-07.mp3
+Nico's Afternoon — 3
+
+Beyond it, he discovered damp leaves and plenty of interesting smells. He found a beetle, then a worm, and had a very pleasant supper. Suddenly a branch rustled nearby. Nico curled into a protective ball. When the noise stopped and he felt safe, he uncurled slowly and peered into the darkness.
+
+Nico listened for a moment, keeping his body still. He could hear the quiet snuffling of another creature coming along the hedge. The sound seemed familiar, but Nico waited until he could see what was approaching. He moved carefully into a comfortable little space beside the roots. A few drops fell from the leaves onto his spines, but the ground was firm beneath his feet. Nico was glad he had chosen the higher route instead of trying to force his way through the puddle. His evening had become pleasantly ordinary again.
+
+================================================
+Evening · page 1
+Target: audio/bedtime/hedgehog-page-08.mp3
+Nico's Evening — 1
+
+Another hedgehog was approaching along the hedge. Nico moved aside to give it room, and the two continued in different directions. He was pleased that the little passage was wide enough for visitors to use without getting trapped. The garden seemed much larger now that he knew another route through it.
+
+================================================
+Evening · page 2
+Target: audio/bedtime/hedgehog-page-09.mp3
+Nico's Evening — 2
+
+Nico wandered quietly through the garden, thinking about the puddle. His first path hadn't worked, but there had been no need to be upset or force his way through. He could simply look for a different solution. The secret door had turned a disappointing start into a delicious evening adventure.
+
+The garden smelled fresh after the rain. Nico found another interesting patch of fallen leaves and searched beneath it with his nose close to the ground. Somewhere above, a branch moved in the breeze. He thought about his favourite old route, which had not been so useful tonight, and the leafy gap that had become his new favourite. He did not need to choose one forever. When the weather changed, he could notice what was different. The garden had plenty of little discoveries for a patient explorer with a very busy nose.
+
+================================================
+Evening · page 3
+Target: audio/bedtime/hedgehog-page-10.mp3
+Nico's Evening — 3
+
+As the next morning approached, Nico returned to his leafy nest. The puddle was already smaller, but he chose the familiar dry route home. He tucked his nose into the soft leaves and settled comfortably. In his dreams, his little secret door had a tiny sign that said: There is often another way.
+

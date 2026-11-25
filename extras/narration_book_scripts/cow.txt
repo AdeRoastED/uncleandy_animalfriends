@@ -1,0 +1,76 @@
+ROSA'S COOLEST DISCOVERY
+Narration script • English
+Record each page separately. Read only the story text; do not read labels or filenames.
+The welcome is shared; use 00-welcome.txt once.
+
+================================================
+Morning · page 1
+Target: audio/bedtime/cow-page-02.mp3
+Rosa's Morning
+
+Rosa greeted the morning with a long, musical moo. The meadow was sparkling with dew, and the grass tasted especially delicious. A young calf named Clover was already bouncing around her mother. She leapt over a tiny clump of grass as though it were a mountain. Rosa watched with amusement. Being young, she decided, must be a very tiring occupation.
+
+================================================
+Morning · page 2
+Target: audio/bedtime/cow-page-03.mp3
+Rosa's Morning
+
+The herd wandered towards a hedge. Rosa noticed a broad patch of shade beneath a tree, where a little breeze slipped through the leaves. Nearby stood a water trough that the farmer had filled. She took a drink and listened to the birds. Clover was busy chasing her own shadow. “You'll never catch that one,” Rosa mooed. Clover tried anyway.
+
+A small bird perched on the fence and sang three bright notes. Clover tried to imitate it, which produced something halfway between a moo and a hiccup. Rosa lifted her head in amusement. The shade beneath the tree was so pleasant that Rosa decided to stand there a little longer. The leaves made moving patches of light across her back, and the trough was close enough for another drink. Clover, who still had a great deal of morning energy, hurried back to her game. She barely noticed the cool spot.
+
+================================================
+Morning · page 3
+Target: audio/bedtime/cow-page-04.mp3
+Rosa's Morning
+
+As the sun climbed, Rosa settled down to chew. Clover stared at her. “But you haven't picked any more grass!” she exclaimed. Rosa explained that cows bring partly digested food back to their mouths to chew it again. This is called chewing the cud. Clover tried to imagine eating breakfast twice and decided that cows had a rather excellent arrangement.
+
+================================================
+Afternoon · page 1
+Target: audio/bedtime/cow-page-05.mp3
+Rosa's Afternoon
+
+By afternoon the meadow felt very different. The dew had disappeared, and the sunshine was strong. Flies buzzed around the herd. Rosa flicked her tail and walked slowly towards the hedge. Clover had been playing with another calf, but now her leaps were smaller. She stopped beside her mother, looking tired. The games no longer seemed quite so exciting.
+
+The meadow seemed to shimmer in the distance. Clover looked at her playmate, then at a flower she had been trying to jump over. It was such a little flower. Why did the jump suddenly seem like such a big effort? She tried one small bounce, stopped, and leaned towards Rosa. “I don't feel like winning anymore,” she admitted. Rosa didn't tell her to try harder or finish the game. She gave a soft moo and looked towards the tree. There was a much better place to be on a day like this.
+
+================================================
+Afternoon · page 2
+Target: audio/bedtime/cow-page-06.mp3
+Rosa's Afternoon
+
+Rosa remembered the cool place she had discovered that morning. She walked towards it, and Clover followed her mother. The farmer had checked the water trough and made sure it was full. Clover drank, then stood in the shade beside Rosa. A breeze moved through the leaves. “Even the wind is taking a little rest here,” Clover murmured.
+
+================================================
+Afternoon · page 3
+Target: audio/bedtime/cow-page-07.mp3
+Rosa's Afternoon
+
+For a while they did nothing at all. Rosa chewed her cud, and Clover watched a beetle making its way across the ground. The beetle climbed a blade of grass, slipped down and began again. Clover giggled. She had been so busy racing around that she had never noticed how much was happening in one tiny patch of meadow.
+
+A ladybird landed beside Clover's hoof, its tiny red back shining like a polished apple. Clover watched it unfold its wings and fly away. For once she had no wish to follow. A breeze passed through the leaves above them, and she took another comfortable drink from the trough. Rosa could see that her calf was beginning to relax. “The meadow hasn't gone anywhere,” she said. “It will still be here when the air is cooler.” Clover rested her head beside her mother. Perhaps an afternoon could be lovely without a single race.
+
+================================================
+Evening · page 1
+Target: audio/bedtime/cow-page-08.mp3
+Rosa's Evening
+
+When the farmer came to check the herd, the cows were resting comfortably. Clover was feeling more like herself. She wanted to run back into the sunshine, but Rosa remained in the shade. Clover decided to stay with her mother a little longer. There would be plenty of time to play when the afternoon became cooler. Even the beetle had disappeared beneath a leaf.
+
+================================================
+Evening · page 2
+Target: audio/bedtime/cow-page-09.mp3
+Rosa's Evening
+
+As evening approached, the herd returned to graze. Clover walked beside Rosa, stopping now and then to investigate interesting smells. She spotted her shadow again, stretching long across the meadow. This time she did not chase it. “You can come with me,” she told it. Rosa gave a soft moo that sounded suspiciously like laughter.
+
+The other calves were enjoying the cooler air now, and one of them invited Clover to play. She agreed to a short game, then chose to stop when she felt tired. Her friend stopped with her and together they watched a grasshopper leap. It was astonishing how far a creature with such tiny legs could go. “Perhaps we should let him win today,” Clover suggested. Rosa listened to their happy noises from nearby. Her little calf was learning to notice more than the finish line.
+
+================================================
+Evening · page 3
+Target: audio/bedtime/cow-page-10.mp3
+Rosa's Evening
+
+The sky turned pink, and the meadow filled with the quiet sounds of insects. Clover nestled close to her mother. She had learned that looking after herself was not a waste of playtime: drinking, resting and noticing how she felt helped her enjoy the day. Rosa closed her eyes for a moment. The grass would still be there tomorrow, and so would the games.
+

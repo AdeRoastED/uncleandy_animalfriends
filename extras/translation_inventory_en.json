@@ -1,0 +1,696 @@
+{
+  "language": "en",
+  "note": "Translation reference. All source text is English; do not expose a language choice until full translations and language-aware narration are implemented. IDs are stable; retain them.",
+  "worlds": {
+    "river": {
+      "name": "River World",
+      "blurb": "Lakes, rivers and muddy banks"
+    },
+    "farm": {
+      "name": "Farm & Home",
+      "blurb": "Friends who live with people"
+    },
+    "jungle": {
+      "name": "Jungle World",
+      "blurb": "Hot, green and full of trees"
+    },
+    "savanna": {
+      "name": "Savanna World",
+      "blurb": "Wide grassy plains of Africa"
+    },
+    "ocean": {
+      "name": "Ocean World",
+      "blurb": "Deep blue seas"
+    },
+    "ice": {
+      "name": "Ice World",
+      "blurb": "The coldest places on Earth"
+    },
+    "forest": {
+      "name": "Forest World",
+      "blurb": "Tall trees and cool woods"
+    },
+    "night": {
+      "name": "Night World",
+      "blurb": "Friends who wake up at night"
+    },
+    "legends": {
+      "name": "Legends World",
+      "blurb": "Mysterious creatures from old stories"
+    }
+  },
+  "places": {
+    "arctic": {
+      "name": "Arctic"
+    },
+    "northamerica": {
+      "name": "North America"
+    },
+    "europe": {
+      "name": "Europe"
+    },
+    "asia": {
+      "name": "Asia"
+    },
+    "southamerica": {
+      "name": "South America"
+    },
+    "africa": {
+      "name": "Africa"
+    },
+    "oceania": {
+      "name": "Oceania"
+    },
+    "antarctica": {
+      "name": "Antarctica"
+    },
+    "oceans": {
+      "name": "Oceans"
+    },
+    "everywhere": {
+      "name": "All over the world"
+    }
+  },
+  "animals": {
+    "sunny": {
+      "name": "Sunny the Capybara",
+      "short": "Sunny",
+      "home": "rivers and lakes of South America",
+      "soundImitation": "Wheet wheet! Prrrr…",
+      "activity": {
+        "morning": "Sunny munches juicy pond grass by the sunny lake. The frogs sing a morning song, and a brave little bird lands on her back. Tickle, tickle! Up in the sky, puffy popcorn clouds float by. Rain is coming!",
+        "afternoon": "It’s getting hot! Sunny finds a cool, squishy mud puddle, all for herself. She closes her eyes and takes a nap. Plip, plop! Raindrops land on her nose. Nap over — and now she’s hungry again!",
+        "evening": "Under the big, bright moon, Sunny’s family munches together. Then — WHISTLE! Danger! Crocs are near! Clever Sunny leads everyone to hide in the mud. The crocs swim past. Safe! Goodnight, Sunny."
+      },
+      "facts": [
+        "Capybaras are the biggest rodents in the world!",
+        "Capybaras can bark like a dog, purr when they’re happy, and whistle to call their family.",
+        "Rolling in mud keeps capybaras cool, protects their skin from the sun and chases away bugs!",
+        "Capybaras love big families, with lots of cousins and friends."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": "Prrrr… that tickles!"
+    },
+    "echo": {
+      "name": "Echo the Hippo",
+      "short": "Echo",
+      "home": "rivers and lakes of Africa",
+      "soundImitation": "Hrrumph! Honk honk!",
+      "activity": {
+        "morning": "Echo the Hippo wakes up in the cool river. Only her eyes, ears and nose peek out of the water. Peek-a-boo!",
+        "afternoon": "Hippos don’t really swim — Echo walks and bounces along the bottom of the river. Boing, boing, boing!",
+        "evening": "When the sun goes down, Echo climbs out of the water to munch grass all night long. Munch, munch. Goodnight, Echo!"
+      },
+      "facts": [
+        "Hippos spend most of the day in water to keep their skin cool.",
+        "Hippos can close their ears and nose when they go under water!",
+        "Hippos come out at night to eat grass."
+      ],
+      "petPrompt": "Pat my smooth skin!",
+      "petResponse": "Hrrmm, lovely!"
+    },
+    "click": {
+      "name": "Click the Tokay Gecko",
+      "short": "Click",
+      "home": "trees and houses of Southeast Asia",
+      "soundImitation": "To-kay! To-kay!",
+      "activity": {
+        "morning": "Click the Tokay Gecko is sleepy. Geckos like Click rest in the daytime, hiding in a cozy crack in a big tree.",
+        "afternoon": "Click wakes up a little and licks his big orange eye to clean it. Tokay geckos have no moving eyelids to blink!",
+        "evening": "Night time is Click’s time! “To-kay! To-kay!” he calls, and climbs up the tree to look for crunchy bugs. Goodnight, Click!"
+      },
+      "facts": [
+        "Tokay geckos are named after their loud call: “To-kay!”",
+        "Tokay geckos can climb walls and even walk upside down with their special toes!",
+        "Tokay geckos clean their eyes by licking them."
+      ],
+      "petPrompt": "Touch my bumpy spots!",
+      "petResponse": "To-kay!"
+    },
+    "cat": {
+      "name": "Mimi the Cat",
+      "short": "Mimi",
+      "home": "homes all over the world",
+      "soundImitation": "Meow, meow!",
+      "activity": {
+        "morning": "The sun tickles Mimi’s nose. She stretches her front paws… then her back paws… then she yawns a BIG yawn. Breakfast time!",
+        "afternoon": "Mimi finds a ball of red wool. Roll, pounce, roll, pounce! Oh no — now she’s all tangled up!",
+        "evening": "Mimi curls into a soft, round ball on the warm blanket. Purr… purr… Goodnight, Mimi."
+      },
+      "facts": [
+        "Cats often purr when they are relaxed, but they can also purr when worried or unwell.",
+        "Cats sleep for most of the day!"
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": "Purrrr"
+    },
+    "dog": {
+      "name": "Bruno the Dog",
+      "short": "Bruno",
+      "home": "homes all over the world",
+      "soundImitation": "Woof! Woof woof!",
+      "activity": {
+        "morning": "Bruno wags his tail so fast his whole body wiggles. He brings his leash: “Walk? Walk? Walk?”",
+        "afternoon": "In the park Bruno digs a hole, finds a stick and gets mud on his nose. Splash — bath time!",
+        "evening": "Bruno lies by the door with his favourite sock. Snore… Goodnight, Bruno."
+      },
+      "facts": [
+        "Dogs use their very sensitive noses to discover scents that people cannot notice!",
+        "Dogs wag their tails to show how they feel."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": "Woof! More please!"
+    },
+    "cow": {
+      "name": "Rosa the Cow",
+      "short": "Rosa",
+      "home": "farms all over the world",
+      "soundImitation": "Moooo!",
+      "activity": {
+        "morning": "Rosa opens one eye, then the other. The grass is wet and shiny. Munch, munch!",
+        "afternoon": "Rosa swishes her tail at a buzzing fly. Swish! Swish! Go away, fly!",
+        "evening": "The sky turns pink. Rosa walks back to the warm barn. Moo… Goodnight, Rosa."
+      },
+      "facts": [
+        "Cows have best friends and feel calmer when they are together."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": "Moo, nice!"
+    },
+    "duck": {
+      "name": "Pippo the Duck",
+      "short": "Pippo",
+      "home": "ponds all over the world",
+      "soundImitation": "Quack quack quack!",
+      "activity": {
+        "morning": "Pippo waddles out of his nest. Left foot, right foot — SPLASH! Into the pond.",
+        "afternoon": "Pippo dives: bottom up, head down! Bubbles everywhere!",
+        "evening": "Pippo tucks his head under his soft wing. Quack… Goodnight, Pippo."
+      },
+      "facts": [
+        "Ducks have water-resistant feathers that help keep their skin warm and dry!"
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": "Quack!"
+    },
+    "orangutan": {
+      "name": "Oli the Orangutan",
+      "short": "Oli",
+      "home": "rainforests of Borneo and Sumatra, in Asia",
+      "soundImitation": "Hoo-ooh! Hoo-ooh!",
+      "activity": {
+        "morning": "Oli wakes up in a leafy nest, high, high up in the trees. Good morning, jungle!",
+        "afternoon": "Oli swings from branch to branch, looking for juicy fruit. Uh-oh, rain! Oli holds a big leaf like an umbrella.",
+        "evening": "Oli bends soft branches into a brand-new bed for the night. Goodnight, Oli!"
+      },
+      "facts": [
+        "Orangutans usually build a fresh nest in the trees each night, and sometimes reuse one.",
+        "An orangutan’s arms are longer than its legs — perfect for swinging."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "tiger": {
+      "name": "Tiko the Tiger",
+      "short": "Tiko",
+      "home": "forests and jungles of Asia",
+      "soundImitation": "Rrrraaawr!",
+      "activity": {
+        "morning": "Tiko stretches a long, long stretch and licks a big striped paw.",
+        "afternoon": "It’s hot! Tiko jumps into the river. Splash! Unlike many other cats, tigers are strong swimmers!",
+        "evening": "Tiko walks quietly through the shadows. The stripes make Tiko almost invisible. Goodnight, Tiko!"
+      },
+      "facts": [
+        "No two tigers have the same stripes!",
+        "Tigers love to swim — unlike most cats."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "toucan": {
+      "name": "Kiki the Toucan",
+      "short": "Kiki",
+      "home": "rainforests of South America",
+      "soundImitation": "Kreek! Kreek!",
+      "activity": {
+        "morning": "Kiki shakes her big, colourful beak and sings to the sunrise.",
+        "afternoon": "Kiki picks a berry, throws it up in the air… and catches it! Gulp!",
+        "evening": "Kiki turns her head, rests her beak on her back and folds her tail over like a blanket. Goodnight, Kiki!"
+      },
+      "facts": [
+        "A toucan’s big beak is very light — it’s full of tiny air spaces inside!",
+        "Toucans sleep with their beak on their back and their tail folded over it."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "elephant": {
+      "name": "Ella the Elephant",
+      "short": "Ella",
+      "home": "the savanna of Africa",
+      "soundImitation": "Pawoooo!",
+      "activity": {
+        "morning": "Ella fills her trunk at the waterhole and — WHOOSH! — gives herself a cool shower.",
+        "afternoon": "Ella throws dust and mud on her back. It’s like sunscreen for elephants!",
+        "evening": "Ella’s family walks home together, following the wise grandma elephant. Goodnight, Ella!"
+      },
+      "facts": [
+        "An elephant uses its flexible trunk to pick up tiny leaves and move heavy branches!",
+        "Elephant family groups are often led by an experienced older female."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "giraffe": {
+      "name": "Zuri the Giraffe",
+      "short": "Zuri",
+      "home": "the savanna of Africa",
+      "soundImitation": "Hmmmm… hmmmm…",
+      "activity": {
+        "morning": "Zuri stretches her long neck to the very top of the tree. The best leaves are up here!",
+        "afternoon": "Thirsty! Zuri spreads her long legs wide, wide, wide to reach the water.",
+        "evening": "The stars come out. Zuri hums a soft, low hum. Goodnight, Zuri!"
+      },
+      "facts": [
+        "Giraffes are the tallest living land animals!",
+        "A giraffe has a long, often dark-coloured tongue that helps it grasp leaves."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "zebra": {
+      "name": "Ziggy the Zebra",
+      "short": "Ziggy",
+      "home": "the savanna of Africa",
+      "soundImitation": "Kwa-ha! Kwa-ha!",
+      "activity": {
+        "morning": "Ziggy and the herd munch fresh grass in the morning sun.",
+        "afternoon": "Ziggy and a friend nibble each other’s necks. Scratch, scratch — that’s how zebras say “I like you”!",
+        "evening": "The herd stays close together. Some zebras keep watch while the others rest. Goodnight, Ziggy!"
+      },
+      "facts": [
+        "Every zebra has its own stripe pattern, like a fingerprint!",
+        "Zebras are cousins of horses."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "turtle": {
+      "name": "Tuga the Sea Turtle",
+      "short": "Tuga",
+      "home": "warm seas all over the world",
+      "soundImitation": "Splish… splash…",
+      "activity": {
+        "morning": "Tuga swims up, up, up to the top of the water and takes a big breath of air.",
+        "afternoon": "Tuga is a green sea turtle. She munches soft seagrass on the sea floor. Yum!",
+        "evening": "Tuga rests under a rocky ledge as the sea turns dark. Goodnight, Tuga!"
+      },
+      "facts": [
+        "Sea turtles breathe air, so they swim to the top to take a breath. Adult green sea turtles mainly eat algae and seagrass.",
+        "Baby sea turtles hatch on the beach and race to the sea!"
+      ],
+      "petPrompt": "Feel my smooth skin!",
+      "petResponse": ""
+    },
+    "octopus": {
+      "name": "Inky the Octopus",
+      "short": "Inky",
+      "home": "oceans all over the world",
+      "soundImitation": "Blub blub blub!",
+      "activity": {
+        "morning": "Inky wakes up and changes from pale to dark and mottled! Good morning, colours!",
+        "afternoon": "Inky squeezes through a tiny hole. Octopuses have no bones, but their hard beak must fit through the opening!",
+        "evening": "Inky curls up in a cozy den made of shells. Goodnight, Inky!"
+      },
+      "facts": [
+        "An octopus has eight arms and three hearts!",
+        "Octopuses can change colour in a blink."
+      ],
+      "petPrompt": "Feel my smooth skin!",
+      "petResponse": ""
+    },
+    "dolphin": {
+      "name": "Fin the Dolphin",
+      "short": "Fin",
+      "home": "oceans all over the world",
+      "soundImitation": "Eee-eee! Click click!",
+      "activity": {
+        "morning": "Fin jumps high out of the waves. Splash!",
+        "afternoon": "Fin whistles to the family. Bottlenose dolphins can have their own special whistle — a little like saying their name!",
+        "evening": "Fin sleeps with half of the brain at a time, so one eye stays a little open. Goodnight, Fin!"
+      },
+      "facts": [
+        "Bottlenose dolphins have their own special whistles — a little like names!",
+        "Dolphins sleep with half of their brain at a time."
+      ],
+      "petPrompt": "Feel my smooth skin!",
+      "petResponse": ""
+    },
+    "penguin": {
+      "name": "Pingo the Penguin",
+      "short": "Pingo",
+      "home": "the ice of Antarctica",
+      "soundImitation": "Squawk! Squawk!",
+      "activity": {
+        "morning": "Pingo waddles across the ice. Waddle, waddle, waddle!",
+        "afternoon": "Pingo flops on the belly and slides down the snow. Wheee!",
+        "evening": "Brrr, it’s cold! All the penguins huddle together to stay warm. Goodnight, Pingo!"
+      },
+      "facts": [
+        "Penguins can’t fly, but they are super swimmers!",
+        "Emperor penguin dads keep the egg warm on their feet!"
+      ],
+      "petPrompt": "Feel my thick, cosy coat!",
+      "petResponse": ""
+    },
+    "polarbear": {
+      "name": "Nanu the Polar Bear",
+      "short": "Nanu",
+      "home": "the snow and sea ice of the Arctic",
+      "soundImitation": "Grrr-huff!",
+      "activity": {
+        "morning": "Nanu rolls and rubs in the fresh snow to clean the thick white fur.",
+        "afternoon": "Nanu swims from one piece of ice to the next. Paddle, paddle!",
+        "evening": "Nanu curls up in the snow, nose under paw. Goodnight, Nanu!"
+      },
+      "facts": [
+        "Under its white fur, a polar bear’s skin is black!",
+        "Polar bears are great swimmers."
+      ],
+      "petPrompt": "Feel my thick, cosy coat!",
+      "petResponse": ""
+    },
+    "seal": {
+      "name": "Sami the Seal",
+      "short": "Sami",
+      "home": "the icy seas of the Arctic",
+      "soundImitation": "Arf! Arf!",
+      "activity": {
+        "morning": "Sami pops up through a hole in the ice. Peek-a-boo!",
+        "afternoon": "Sami dives deep, deep down to look for fish. Hold your breath!",
+        "evening": "Sami rests on the ice under the dancing northern lights. Goodnight, Sami!"
+      },
+      "facts": [
+        "Seals are mammals. They breathe air and can stay underwater for a long time.",
+        "Baby harp seals are born with fluffy white fur."
+      ],
+      "petPrompt": "Feel my thick, cosy coat!",
+      "petResponse": ""
+    },
+    "bear": {
+      "name": "Bo the Bear",
+      "short": "Bo",
+      "home": "forests and mountains of Europe and North America",
+      "soundImitation": "Grrrumph!",
+      "activity": {
+        "morning": "Bo stands in the river and — SPLASH! — catches a fish.",
+        "afternoon": "Bo finds a bush full of sweet berries. Munch, munch, munch!",
+        "evening": "Bo’s tummy is full and Bo is sleepy. Soon it will be winter — time for the long sleep in a cozy den. Goodnight, Bo!"
+      },
+      "facts": [
+        "Many brown bears spend the coldest months resting in a den.",
+        "Brown bears eat many different foods, including berries, plants, insects and fish."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "squirrel": {
+      "name": "Hazel the Squirrel",
+      "short": "Hazel",
+      "home": "forests of Europe",
+      "soundImitation": "Chuk-chuk-chuk!",
+      "activity": {
+        "morning": "Hazel runs up the tree trunk — zip, zip, zip!",
+        "afternoon": "Hazel buries nuts in the ground to eat later. One here… one there…",
+        "evening": "Hazel curls up in a round nest of twigs and moss, her bushy tail like a blanket. Goodnight, Hazel!"
+      },
+      "facts": [
+        "Squirrels bury nuts for later — the forgotten ones can grow into new trees!",
+        "A squirrel’s bushy tail is a blanket and helps it balance."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "wolf": {
+      "name": "Luna the Wolf",
+      "short": "Luna",
+      "home": "forests of North America and Europe",
+      "soundImitation": "Ahoooooo!",
+      "activity": {
+        "morning": "Luna and the pack wake up together. Lick, sniff — good morning, family!",
+        "afternoon": "The wolf pups play tag in the grass while Luna watches.",
+        "evening": "Under the moon, Luna howls to call the family home. Ahoooo! Goodnight, Luna!"
+      },
+      "facts": [
+        "Wolves howl to talk to their family, even far away.",
+        "Wolves live in families called packs."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "kiwi": {
+      "name": "Kiri the Kiwi",
+      "short": "Kiri",
+      "home": "forests of New Zealand",
+      "soundImitation": "Kee-wee! Kee-wee!",
+      "activity": {
+        "morning": "Shhh… Kiri is fast asleep in a cozy burrow. Many kiwis rest in the daytime and search for food at night.",
+        "afternoon": "Still sleeping… snore… Kiri is saving energy for tonight.",
+        "evening": "Night time! Kiri wakes up and sniffs the ground with a long beak to find wiggly worms. Good morning… I mean, goodnight, Kiri!"
+      },
+      "facts": [
+        "Kiwis have nostrils at the very tip of their beak!",
+        "A kiwi is a bird that can’t fly."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "fennec": {
+      "name": "Fen the Fennec Fox",
+      "short": "Fen",
+      "home": "the Sahara Desert in Africa",
+      "soundImitation": "Yip! Yip yip!",
+      "activity": {
+        "morning": "Fen sleeps in a cool burrow under the sand, away from the hot sun.",
+        "afternoon": "The desert is SO hot. Fen stays underground and waits.",
+        "evening": "The desert cools down. Fen’s giant ears listen for little bugs. Goodnight, Fen!"
+      },
+      "facts": [
+        "Fennec foxes have very large ears for their size — they help them stay cool!",
+        "Fennec foxes have furry feet so the hot sand doesn’t burn them."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "hedgehog": {
+      "name": "Nico the Hedgehog",
+      "short": "Nico",
+      "home": "gardens and woods of Europe",
+      "soundImitation": "Snuffle, snuffle!",
+      "activity": {
+        "morning": "Nico is asleep in a pile of soft leaves. Zzz…",
+        "afternoon": "Still asleep… Hedgehogs are mostly active after dark.",
+        "evening": "Snuffle, snuffle! Nico looks for beetles in the garden. A noise! Nico rolls into a spiky ball. Goodnight, Nico!"
+      },
+      "facts": [
+        "A hedgehog has thousands of spines on its back!",
+        "When scared, a hedgehog rolls into a spiky ball."
+      ],
+      "petPrompt": "Pet my fur!",
+      "petResponse": ""
+    },
+    "nessie": {
+      "name": "Nessie of the Loch",
+      "short": "Nessie",
+      "home": "Loch Ness, a big lake in Scotland",
+      "soundImitation": "Bloop… bloop…",
+      "activity": {
+        "morning": "Mist floats on the lake. People wait with cameras. Is that a long neck in the water? Or just a log?",
+        "afternoon": "A big ripple goes across the lake… then nothing. Nessie is very, very shy!",
+        "evening": "The lake is quiet and dark. Maybe Nessie is swimming deep down, dreaming. Goodnight, Nessie!"
+      },
+      "facts": [
+        "Loch Ness is a very big, very deep lake in Scotland.",
+        "People have looked for Nessie for many years, but there is no scientific proof she exists!"
+      ],
+      "petPrompt": "Touch the magic!",
+      "petResponse": ""
+    },
+    "yeti": {
+      "name": "Yeti of the Mountains",
+      "short": "Yeti",
+      "home": "the snowy Himalaya mountains",
+      "soundImitation": "Hooo-ooo!",
+      "activity": {
+        "morning": "High in the snowy mountains, climbers find giant footprints. Whose feet are SO big?",
+        "afternoon": "The wind blows. Something fluffy and white runs behind a rock… or was it just snow?",
+        "evening": "The stars shine on the tallest mountains in the world. Goodnight, Yeti, wherever you are!"
+      },
+      "facts": [
+        "The Himalayas have the tallest mountains in the world, like Mount Everest.",
+        "Scientists tested some “Yeti” hair — it came from bears!"
+      ],
+      "petPrompt": "Touch the magic!",
+      "petResponse": ""
+    },
+    "bigfoot": {
+      "name": "Bigfoot",
+      "short": "Bigfoot",
+      "home": "deep forests of North America",
+      "soundImitation": "Whoop! Whoop!",
+      "activity": {
+        "morning": "In the big forest, a hiker finds a HUGE footprint in the mud. Stomp!",
+        "afternoon": "Something tall and hairy walks between the trees… Is it Bigfoot? Or a bear?",
+        "evening": "The forest is quiet. Maybe Bigfoot is having a big, hairy nap. Goodnight, Bigfoot!"
+      },
+      "facts": [
+        "Bigfoot is also called Sasquatch.",
+        "Nobody has ever proven Bigfoot is real, but people still love to look!"
+      ],
+      "petPrompt": "Touch the magic!",
+      "petResponse": ""
+    },
+    "naga": {
+      "name": "Naga of the Mekong",
+      "short": "Naga",
+      "home": "the Mekong River in Thailand and Laos",
+      "soundImitation": "Ssssss…",
+      "activity": {
+        "morning": "The great Mekong River sparkles in the sun. People say a giant serpent lives deep below.",
+        "afternoon": "Fishermen tell stories of the Naga, who protects the river and its fish.",
+        "evening": "Some people report seeing mysterious lights near the river on special nights. In the legend, they say: “The Naga is sending fireballs!” Goodnight, Naga!"
+      },
+      "facts": [
+        "In Thailand and Laos, people tell stories of the Naga, a great serpent of the Mekong River.",
+        "Every year, crowds gather by the Mekong to watch for “Naga fireballs”."
+      ],
+      "petPrompt": "Touch the magic!",
+      "petResponse": ""
+    },
+    "jackalope": {
+      "name": "Jackie the Jackalope",
+      "short": "Jackie",
+      "home": "the prairies of North America",
+      "soundImitation": "Boing! Boing!",
+      "activity": {
+        "morning": "A little rabbit hops in the grass… wait, does it have ANTLERS?",
+        "afternoon": "Boing! Jackie jumps over a cactus. Nobody can catch a jackalope!",
+        "evening": "Jackie hides in the tall grass, antlers and all. Goodnight, Jackie!"
+      },
+      "facts": [
+        "The jackalope is a funny legend: a rabbit with deer antlers!",
+        "In Douglas, Wyoming, there is a giant jackalope statue!"
+      ],
+      "petPrompt": "Touch the magic!",
+      "petResponse": ""
+    }
+  },
+  "storyTitles": {
+    "echo": "The River's Quiet Corner",
+    "click": "The Missing Reply",
+    "cat": "The Bell Beneath the Chair",
+    "dog": "Bruno and the Garden Gate",
+    "cow": "Rosa's Coolest Discovery",
+    "duck": "Pippo's Floating Feather",
+    "orangutan": "Oli's Leaf Umbrella",
+    "tiger": "Tiko and the Rustling Grass",
+    "toucan": "Kiki's Rainy-Day Fruit",
+    "elephant": "Ella's Remembered Path",
+    "giraffe": "Zuri's View Above the Trees",
+    "zebra": "Ziggy's Striped Parade",
+    "turtle": "Tuga and the Gentle Current",
+    "octopus": "Inky's Two Doorways",
+    "dolphin": "Fin's Listening Game",
+    "penguin": "Pingo's Warm Place",
+    "polarbear": "Nanu's Snowy Shortcut",
+    "seal": "Sami's Breathing Place",
+    "bear": "Bo's Berry Surprise",
+    "squirrel": "Hazel's Forgotten Acorn",
+    "wolf": "Luna's Familiar Howl",
+    "kiwi": "Kiri's Hidden Breakfast",
+    "fennec": "Fen's Cool Burrow",
+    "hedgehog": "Nico's Leafy Door",
+    "nessie": "The Loch's Little Lantern",
+    "yeti": "The Mountain's Soft Footprints",
+    "bigfoot": "The Forest's Quiet Friend",
+    "naga": "The River's Promise",
+    "jackalope": "Jackie's Little Shadow"
+  },
+  "storyDiscussion": {
+    "sunny": "What did Sunny notice during the day that helped her family later?",
+    "echo": "How did Echo help the little bird without getting too close?",
+    "click": "How did Click and Dot find out what was making the tapping sound?",
+    "cat": "How did Mimi feel when she shared the toy?",
+    "dog": "Who helped Bruno make the garden safe?",
+    "cow": "What helped Clover feel better on the hot afternoon?",
+    "duck": "How did Pippo find a safer place for the ducks?",
+    "orangutan": "What did Oli learn by watching the leaves?",
+    "tiger": "What happened when Tiko stopped and listened?",
+    "toucan": "Why was it nice to share the fruit?",
+    "elephant": "Why was listening to the older elephants helpful?",
+    "giraffe": "How did Zuri use her long neck to help her friends?",
+    "zebra": "Why was staying close to the herd important?",
+    "turtle": "What did Tuga learn from watching the water?",
+    "octopus": "Why was it helpful for Inky to know more than one way home?",
+    "dolphin": "What helped Fin understand the other dolphins?",
+    "penguin": "How did Pingo find a warmer place?",
+    "polarbear": "What helped Nanu choose a safer route?",
+    "seal": "Why did Sami need to know where to breathe?",
+    "bear": "What did Bo discover about sharing space in the forest?",
+    "squirrel": "What might grow from a forgotten acorn?",
+    "wolf": "How did Luna find her family again?",
+    "kiwi": "Which special sense helped Kiri find breakfast?",
+    "fennec": "Why was the other burrow entrance useful?",
+    "hedgehog": "What did Nico do when his usual path was blocked?",
+    "nessie": "How did a little light help Misty?",
+    "yeti": "How did Yeti make Pema feel less frightened?",
+    "bigfoot": "Why did Bigfoot choose the safer bridge?",
+    "naga": "How did the friends look after the river together?",
+    "jackalope": "How did Jackie help Juniper when the game became too hot?"
+  },
+  "staticControls": {
+    "startBtn": "▶ Let's play!",
+    "musicBtn": "🎵",
+    "parentBtn": "🔐",
+    "bedBtn": "🌙 Bedtime stories",
+    "stickerBtn": "🌟 Stickers 0/30",
+    "gameBtn": "🎮 Who says that?",
+    "habBtn": "🏡 Find my world",
+    "memoryBtn": "🧩 Match friends",
+    "dailyBtn": "🐾 Meet a friend",
+    "tabWorlds": "🗺️ Worlds",
+    "tabConts": "🌍 Continents",
+    "backBtn": "⬅️",
+    "readBtn": "📖",
+    "animalBook": "🌙 Read my bedtime story",
+    "soundBtn": "🔊 Hello!",
+    "songBtn": "🎶 My song",
+    "factBtn": "💡 Did you know?",
+    "furTitle": "✋ Pet my fur!",
+    "playClue": "🔊 Listen",
+    "showClue": "👀 Picture clue",
+    "habListen": "🔊 Listen to the question",
+    "habNext": "Next friend →",
+    "memoryNew": "Play again",
+    "libraryContinue": "Continue last story",
+    "backToLibrary": "← All stories",
+    "bkResume": "Continue reading",
+    "bkRestart": "Start again",
+    "bkPrev": "◀",
+    "bkNext": "▶",
+    "storyTalkDone": "Back to the library",
+    "bkPlay": "▶ Read to me",
+    "fsMinus": "A−",
+    "fsPlus": "A+",
+    "lullaby": "🎵 Soft lullaby",
+    "resetProgress": "Reset progress",
+    "resetYes": "Yes, reset",
+    "resetNo": "Cancel",
+    "voiceChoice": "Bedtime reading voice",
+    "readRate": "Reading speed",
+    "voiceTest": "Try reading voice",
+    "audBtn": "Check audio files",
+    "reviewStop": "Stop playback",
+    "installBtn": "Install app"
+  }
+}

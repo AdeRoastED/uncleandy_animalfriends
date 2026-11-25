@@ -1,0 +1,31 @@
+UNCLE ANDY ANIMAL FRIENDS — STORY DISCOVERY EDITION
+
+New in this build:
+- 62 original small vector prop designs in the reading interface; 260 story
+  discovery buttons use these drawings and 10 reuse the existing animal art.
+- Varied character layout and clue positioning across the nine story pages,
+  with warmer daytime and softer evening colour treatments.
+- All original embedded animal artwork, backgrounds, Sunny text, welcome,
+  other 29 expanded stories, colouring sheets and existing MP3s preserved.
+- Each discovery button has an accessible label, keyboard support and a pressed
+  state. No animation is required to discover a clue.
+- Reading status distinguishes device-generated speech, stopped and completed
+  narration. No new professional voice recordings have been added.
+- extras/narration_book_scripts contains 30 individual books and the shared
+  welcome, with 271 exact recording target filenames. These are scripts only.
+
+VERIFIED
+Local Chromium with storage stub: all 300 pages, all 270 interactive props,
+free/paid preview boundaries, muted reading, four viewport widths, no detected
+JavaScript errors. Checked all 65 cache paths, original embedded art and stories,
+all existing PNG and MP3 bytes, and exact narration text against the CSV.
+JavaScript and service worker syntax checked; ZIP integrity checked.
+Actual PWA installation and device speech are not verified by these tests.
+
+LIMITATIONS
+The illustrated clues are small reusable vector drawings, not 270 new
+full-page illustrations. Existing character art and backgrounds are still
+used for the story scenes. Full bespoke illustrations, professional narration,
+full Italian and other translations, polar bear and fennec recordings,
+recording rights and authenticity checks, Google Play Billing, and real-device
+release tests remain outstanding. The app has no ads or subscriptions.

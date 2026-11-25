@@ -1,0 +1,122 @@
+{
+  "sunny": [
+    "Sunny il capibara",
+    "Il capibara è il roditore più grande del mondo. Ama vivere vicino all’acqua e riposare al fresco."
+  ],
+  "echo": [
+    "Echo l’ippopotamo",
+    "Gli ippopotami passano gran parte del giorno in acqua e di notte escono a brucare l’erba."
+  ],
+  "click": [
+    "Click il geco tokay",
+    "Il geco tokay si arrampica grazie alle sue zampe speciali. Il suo verso assomiglia a «to-kay!»."
+  ],
+  "cat": [
+    "Mimi la gatta",
+    "I gatti dormono molte ore al giorno. Usano i baffi per esplorare lo spazio intorno a loro."
+  ],
+  "dog": [
+    "Bruno il cane",
+    "I cani hanno un olfatto molto sviluppato. Il naso li aiuta a scoprire il mondo."
+  ],
+  "cow": [
+    "Rosa la mucca",
+    "Le mucche ruminano: riportano alla bocca il cibo già inghiottito per masticarlo ancora."
+  ],
+  "duck": [
+    "Pippo l’anatra",
+    "Le zampe palmate aiutano le anatre a nuotare. Le piume le proteggono dall’acqua."
+  ],
+  "orangutan": [
+    "Oli l’orango",
+    "Gli oranghi trascorrono molto tempo sugli alberi. Costruiscono nidi di rami e foglie per riposare."
+  ],
+  "tiger": [
+    "Tiko la tigre",
+    "Le strisce della tigre la aiutano a confondersi tra la vegetazione. Ogni tigre ha un disegno diverso."
+  ],
+  "toucan": [
+    "Kiki il tucano",
+    "Il grande becco del tucano è sorprendentemente leggero. Lo usa per raggiungere la frutta."
+  ],
+  "elephant": [
+    "Ella l’elefante",
+    "La proboscide aiuta gli elefanti a bere, annusare e afferrare il cibo."
+  ],
+  "giraffe": [
+    "Zuri la giraffa",
+    "Il lungo collo della giraffa le permette di raggiungere le foglie più alte degli alberi."
+  ],
+  "zebra": [
+    "Ziggy la zebra",
+    "Ogni zebra ha un disegno di strisce diverso. Le zebre vivono spesso in gruppi."
+  ],
+  "turtle": [
+    "Tuga la tartaruga marina",
+    "Le tartarughe marine respirano aria e devono risalire in superficie per respirare."
+  ],
+  "octopus": [
+    "Inky il polpo",
+    "Il polpo ha otto braccia e può cambiare colore per confondersi con l’ambiente."
+  ],
+  "dolphin": [
+    "Fin il delfino",
+    "I delfini comunicano con suoni e usano gli echi per orientarsi sott’acqua."
+  ],
+  "penguin": [
+    "Pingo il pinguino",
+    "I pinguini sono uccelli che non volano, ma sono ottimi nuotatori."
+  ],
+  "polarbear": [
+    "Nanu l’orso polare",
+    "Il pelo folto e lo strato di grasso aiutano l’orso polare a sopportare il freddo."
+  ],
+  "seal": [
+    "Sami la foca",
+    "Le foche sono mammiferi marini: nuotano molto bene, ma devono respirare aria."
+  ],
+  "bear": [
+    "Bo l’orso",
+    "Molti orsi mangiano frutta, insetti e altri alimenti. Alcuni riposano a lungo durante l’inverno."
+  ],
+  "squirrel": [
+    "Hazel lo scoiattolo",
+    "Gli scoiattoli nascondono semi e noci. Alcuni semi dimenticati possono diventare nuove piante."
+  ],
+  "wolf": [
+    "Luna la lupa",
+    "I lupi usano gli ululati per comunicare con altri membri del branco."
+  ],
+  "kiwi": [
+    "Kiri il kiwi",
+    "Il kiwi è un uccello della Nuova Zelanda che non vola. Cerca spesso il cibo di notte."
+  ],
+  "fennec": [
+    "Fen il fennec",
+    "Le grandi orecchie del fennec lo aiutano a sentire e a disperdere il calore."
+  ],
+  "hedgehog": [
+    "Nico il riccio",
+    "Gli aculei proteggono il riccio. Molti ricci cercano il cibo di notte."
+  ],
+  "nessie": [
+    "Nessie",
+    "Nessie è una creatura leggendaria del lago di Loch Ness, in Scozia. La sua esistenza non è dimostrata."
+  ],
+  "yeti": [
+    "Yeti",
+    "Lo yeti è una creatura delle leggende dell’Himalaya. Non è un animale di cui sia provata l’esistenza."
+  ],
+  "bigfoot": [
+    "Bigfoot",
+    "Bigfoot è una creatura del folclore nordamericano, non un animale scientificamente accertato."
+  ],
+  "naga": [
+    "Naga",
+    "Il naga appartiene a tradizioni e racconti di molte culture asiatiche. La nostra avventura è di fantasia."
+  ],
+  "jackalope": [
+    "Jackie il jackalope",
+    "Il jackalope è una creatura immaginaria del folclore nordamericano, spesso raffigurata come un coniglio con corna."
+  ]
+}

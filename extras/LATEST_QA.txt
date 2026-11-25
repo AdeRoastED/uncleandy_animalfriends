@@ -1,0 +1,3 @@
+Latest checks: 30 stories, 300 pages, 270 discoveries, 30 MP3s, 65 cache paths.
+Passed: JavaScript syntax, Chromium local HTML regression, home resume, quiet-reading preference, visual clue feedback, preview access restrictions, four screen widths, story/art/narration data preservation, retained audio byte equality, cache path existence.
+No uncaught JavaScript errors during checks. Live HTTPS/PWA installation, actual device voice playback, billing, rights and device testing still pending.

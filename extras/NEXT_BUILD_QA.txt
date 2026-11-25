@@ -1,0 +1,8 @@
+READING & SOUND REVIEW UPDATE
+- Parent-only sound review: 30 entries, 28 playable sound files, 2 missing (polar bear and fennec fox). 21 real-animal review candidates, 7 fictional/underwater effects.
+- Local English voice selection, selectable device narration speed, saved automatic page turning, shorter device speech utterances. Recorded narration, once supplied, plays at its normal recorded speed.
+- Rebuilt bedtime CSV to match actual app paths: 271 bedtime scripts plus 90 activity and 62 fact scripts. Removed six obsolete/redundant bedtime entries.
+- Corrected release checklist and cache asset hashing.
+- PASS: all 30 book texts unchanged from preceding ZIP, all 30 MP3s byte-identical and FFmpeg-decodable, Node syntax, Chromium DOM tests at 390x844 for 300 story pages, navigation/resume, voice controls/chunk lengths, 30 sound-review rows/two disabled buttons, parent gate, all-world preview, memory/habitat/sound quizzes, discovery and sticker flow.
+- NOT TESTED: actual device voice audio, physical mobile devices, real HTTPS/offline installation (localhost blocked), recording authenticity/rights, billing.
+- No ads. No live payments. English only.

@@ -1,0 +1,44 @@
+UNCLE ANDY ANIMAL FRIENDS — ADEBA STUDIO
+Ad-free development build / 25 November 2026
+
+MONETIZATION (proposals, not live prices)
+Free forever: River World and Farm & Home, 7 animals and 7 complete stories,
+stickers and three games, no ad SDKs and no subscription. Paid worlds: Jungle,
+Savanna, Ocean, Ice, Forest, Night at EUR 1.99 each; Legends at EUR 2.99.
+Suggested All Worlds Pass: EUR 9.99 (individual worlds total EUR 14.93).
+Use permanent non-consumable products. Suggested IDs: world_jungle,
+world_savanna, world_ocean, world_ice, world_forest, world_night,
+world_legends, all_worlds_pass. Prices are provisional and must be obtained
+from the store in local currency in production. Do not take payment on this
+web prototype. No payment links or child-directed sales pressure.
+
+ANDROID RELEASE BLOCKERS
+- Integrate Google Play Billing in the Android wrapper; verify completed
+  purchases, acknowledge them and restore entitlements from Play on launch.
+  Handle pending payments, refunds, cancellation, errors and offline state.
+  A local preview flag or JavaScript storage must never authenticate payments.
+- Remove the developer preview control in the production build. Keep a proper
+  adult-only shop and the platform purchase authentication. The math gate is
+  a basic deterrent and not proof of adulthood.
+- Review Families policy, target audience (the existing app says ages 2–6),
+  data safety, content rating, privacy policy and all audio/illustration rights.
+  The web host may process ordinary access logs; don't claim otherwise.
+- Add the 2 remaining animal recordings (polar bear and fennec fox); listen to
+  and verify all 21 existing review candidates. See received_audio_sources.csv. Do not publish
+  any asset until its rights and accuracy have been verified.
+- Professional narration, individual story artwork, full localization and
+  mobile device testing remain pending. Sunny and Uncle Andy welcome preserved; other English stories expanded.
+
+Official documentation:
+https://support.google.com/googleplay/android-developer/answer/9893335
+https://developer.android.com/google/play/billing/one-time-products
+https://developer.android.com/google/play/billing/integrate
+
+TESTING
+Extract ZIP; open index.html for quick preview, or host the whole folder on
+HTTPS (required for PWA installation). For all 30 stories, open the grown-up
+corner, answer the math question, and enable Preview all worlds this session.
+Normal startup exposes the seven free animals. Preview resets on reload.
+For future recordings run python extras/rebuild_assets.py; separately review
+and update recording status sets in index.html. Regenerate the cache version
+also after any code update. No external fonts or tracking SDKs included.

@@ -1,0 +1,76 @@
+LUNA'S FAMILIAR HOWL
+Narration script • English
+Record each page separately. Read only the story text; do not read labels or filenames.
+The welcome is shared; use 00-welcome.txt once.
+
+================================================
+Morning · page 1
+Target: audio/bedtime/wolf-page-02.mp3
+Luna's Morning — 1
+
+Luna stretched her paws and gave the smallest howl she could manage. “Awooo!” Her brother tried an even louder one, and they both collapsed into a giggling heap. Their wolf pack was a family, with grown-ups looking after the younger wolves. Today they were exploring a familiar stretch of forest together.
+
+================================================
+Morning · page 2
+Target: audio/bedtime/wolf-page-03.mp3
+Luna's Morning — 2
+
+Near a rocky hill, Luna called again. A faint sound came back from the stones. “There is another Luna inside the hill!” she exclaimed. Her aunt explained that it was an echo. She demonstrated a longer call, and the sound returned, softer and less clear than the voice that had made it.
+
+Luna tried another howl and listened as the rocky hill returned the end of it. The echo did not make a new sound of its own; it sent back part of the sound she had made. Her aunt called from a little distance away, and Luna noticed how different a familiar voice sounded. It could change its tune and call again even when Luna was silent. Her brother tried to persuade the hill to echo a particularly ridiculous squeak. The hill did its best, and both youngsters burst into a fit of giggles.
+
+================================================
+Morning · page 3
+Target: audio/bedtime/wolf-page-04.mp3
+Luna's Morning — 3
+
+Luna listened as the adults called to one another from different parts of the trees. Wolves use howls to communicate over long distances. Each voice sounded a little different. Luna practised recognising her aunt's familiar call, and her brother made a silly squeak that sounded nothing like a proper wolf howl.
+
+================================================
+Afternoon · page 1
+Target: audio/bedtime/wolf-page-05.mp3
+Luna's Afternoon — 1
+
+That afternoon, an interesting scent drifted from a bush beside the path. Luna stopped to sniff it, taking only a few little steps away. When she looked up, the pack had moved beyond the trees and she could no longer see them. She felt a sudden flutter in her stomach.
+
+The trees suddenly looked much taller than they had a few moments earlier. Luna could still smell the path, but the familiar movement of her family was hidden beyond the trunks. A leaf scraped across the ground, and she turned towards it, hoping it was her brother. It was only a leaf. For one anxious moment she wanted to dash in every direction at once. Then she heard the wind moving past the rocky hill. The place was familiar. She remembered her aunt's voice and took a moment to listen instead of running.
+
+================================================
+Afternoon · page 2
+Target: audio/bedtime/wolf-page-06.mp3
+Luna's Afternoon — 2
+
+She started to run, then stopped. The rocky hill was still close, and she remembered the familiar path beside it. Luna stayed near that spot and listened. At first she heard only the breeze. Then a long, clear howl rose from beyond the trees. It sounded exactly like her aunt, not like the echo from the hill.
+
+================================================
+Afternoon · page 3
+Target: audio/bedtime/wolf-page-07.mp3
+Luna's Afternoon — 3
+
+Luna answered as loudly as she could. Her aunt called again, and soon came back along the path with another adult wolf. Luna hurried towards them. “I was trying to be a very independent explorer,” she admitted. Her aunt gently touched noses with her. “Independent explorers can still call for their family.”
+
+Luna stayed close to her aunt as they returned to the others. When her brother appeared between two trees, he gave a delighted little howl. Luna answered, and this time she did not mind that her voice was slightly wobbly. The adults gathered around the young wolves, and the familiar forest seemed much less enormous. Her aunt explained that the pack could use calls to stay in touch, even when trees hid them from one another. Luna was glad she had answered. It was a very comforting thing to be heard.
+
+================================================
+Evening · page 1
+Target: audio/bedtime/wolf-page-08.mp3
+Luna's Evening — 1
+
+The pack gathered at a quiet clearing as evening approached. Luna told her brother what had happened, and he promised to pay attention when they walked together. Their aunt invited them to practise calling and listening once more, this time from nearby places where the grown-ups could watch them.
+
+================================================
+Evening · page 2
+Target: audio/bedtime/wolf-page-09.mp3
+Luna's Evening — 2
+
+Luna discovered that a howl wasn't just a splendid noise to make. It could tell someone where she was, reassure a family member or bring the pack together. She no longer felt embarrassed about asking for help. Her voice was a little piece of the family's connection, and she was glad to have it.
+
+During their practice game, Luna waited until her aunt had finished calling before answering. Her brother tried a new howl, which sounded a little like a squeaky door, but Luna recognised him immediately. She was surprised by how much information a familiar voice could carry. As they rested in the clearing, she listened to the soft movement of the adults nearby. The forest was still full of mysterious sounds, yet the voices of her own family were wonderfully familiar. She decided that an explorer could be curious and careful at the same time.
+
+================================================
+Evening · page 3
+Target: audio/bedtime/wolf-page-10.mp3
+Luna's Evening — 3
+
+Beneath the evening sky, Luna curled beside her brother in the shelter of the trees. The adults rested nearby. A distant call drifted through the forest, and her aunt answered softly. Luna closed her eyes, comforted by the familiar voices. Whatever adventures tomorrow brought, she knew she didn't have to face them alone.
+

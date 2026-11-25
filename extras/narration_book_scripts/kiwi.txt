@@ -1,0 +1,78 @@
+KIRI'S HIDDEN BREAKFAST
+Narration script • English
+Record each page separately. Read only the story text; do not read labels or filenames.
+The welcome is shared; use 00-welcome.txt once.
+
+================================================
+Morning · page 1
+Target: audio/bedtime/kiwi-page-02.mp3
+Kiri's Morning — 1
+
+While the sun was rising over the New Zealand forest, Kiri the kiwi was finishing her breakfast. She poked her long bill beneath a fern and found a juicy worm. “Delicious spaghetti!” she murmured. Unlike most birds, kiwis cannot fly, and many are most active at night. Kiri had been busy while the other birds slept.
+
+================================================
+Morning · page 2
+Target: audio/bedtime/kiwi-page-03.mp3
+Kiri's Morning — 2
+
+She sniffed along the ground. Her nostrils were near the tip of her bill, which helped her locate food hidden beneath the leaves. A patch beside a big fern was especially soft and full of interesting smells.
+
+Kiri examined the ground beneath the fern with her sensitive bill. The leaves were slightly damp, and she found a delicious little creature hiding beneath them. The forest floor was full of tiny trails that she could investigate with her sense of smell and touch. Above her, the early birds were already beginning their day, but Kiri had spent most of the night searching for food. She had no wish to race them into the sunshine. The big fern would still be here when she woke, she hoped, and she remembered where its fronds curved towards the ground.
+
+Kiri remembered it before returning to the shelter where she rested during the day.
+
+================================================
+Morning · page 3
+Target: audio/bedtime/kiwi-page-04.mp3
+Kiri's Morning — 3
+
+Outside, the morning birds started singing. Kiri tucked herself away and listened to their cheerful noise. “Good morning to you, goodnight to me,” she whispered. She could hear a little drip from a fern above her entrance. Soon she was fast asleep, dreaming of worms wearing tiny green hats.
+
+================================================
+Afternoon · page 1
+Target: audio/bedtime/kiwi-page-05.mp3
+Kiri's Afternoon — 1
+
+In the afternoon, rain pattered through the forest. Kiri stirred when a heavy drop landed near her shelter, but stayed comfortably inside. The daytime birds hopped around in the wet branches, and the soft earth soaked up the rain. Kiri's favourite part of the day would come when the light faded.
+
+The rain changed the sounds of the forest. Kiri could hear drops falling onto the leaves above her resting place, then dripping onto the ground. She was warm and dry enough inside, and she stayed where she was. At dusk, however, she would need to find food again. The fallen twigs might make her usual searching places look different. Kiri remembered the soft ground near the fern, where she had found breakfast before the daytime birds arrived. Perhaps the rain would make that little corner especially interesting tonight.
+
+================================================
+Afternoon · page 2
+Target: audio/bedtime/kiwi-page-06.mp3
+Kiri's Afternoon — 2
+
+Near dusk, the rain slowed. Kiri woke and stretched her sturdy legs. She emerged into the damp forest and found the usual ground covered with fallen twigs. A young kiwi named Tui was probing a patch beneath a thick root, but the soil there was hard. He looked thoroughly disappointed.
+
+================================================
+Afternoon · page 3
+Target: audio/bedtime/kiwi-page-07.mp3
+Kiri's Afternoon — 3
+
+Kiri remembered the fern she had visited at sunrise. She moved towards it and found the ground even softer after the rain. Tui searched a little distance away in the same patch, with plenty of space between them. His long bill disappeared beneath a leaf, and up came a wriggling supper. “Spaghetti!” Kiri exclaimed.
+
+The fern was still standing, although its fronds were covered in shining drops. Kiri probed the damp ground and found another small creature beneath the leaves. Tui searched a comfortable distance away, and soon both young kiwis were busy with their own discoveries. There was no need to turn dinner into a competition. Kiri lifted her long bill and gave a pleased little sniff. The familiar patch had become even more interesting after the rain. A very ordinary place could hold a completely different surprise on another visit.
+
+================================================
+Evening · page 1
+Target: audio/bedtime/kiwi-page-08.mp3
+Kiri's Evening — 1
+
+Evening turned into a quiet, starry night. Kiri continued along the forest floor, sniffing and probing in her own little territory. She found beetles and other small creatures beneath the damp leaves. When a branch rustled above her, she paused and listened before returning to her search. The forest was full of hidden treasures.
+
+================================================
+Evening · page 2
+Target: audio/bedtime/kiwi-page-09.mp3
+Kiri's Evening — 2
+
+She thought about the little patch of earth beneath the fern. She hadn't needed to fly over the forest to find it, and she hadn't needed to search every corner at once. Paying attention to the small details around her had made her evening much easier. Tui had found his supper too.
+
+Kiri travelled slowly through the dark forest, pausing whenever a promising scent reached her. She did not have wings that would carry her above the trees, but she had wonderfully useful senses for exploring the ground. She found a beetle beneath some leaves and listened to the night insects nearby. The rain had changed her usual route a little, and remembering the fern had helped her adjust. Now she was quite content to explore one small patch at a time. She was not in a hurry to discover the entire forest before morning.
+
+================================================
+Evening · page 3
+Target: audio/bedtime/kiwi-page-10.mp3
+Kiri's Evening — 3
+
+As the night eventually gave way to another dawn, Kiri returned to her sheltered resting place. Her tummy was full, and the morning birds were beginning their songs again. “Goodnight, everyone. Or good morning. Oh, you know what I mean!” she whispered, closing her eyes for another peaceful daytime sleep.
+

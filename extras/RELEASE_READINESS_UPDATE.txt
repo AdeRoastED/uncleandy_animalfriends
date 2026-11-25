@@ -1,0 +1,9 @@
+Release readiness update
+- Parent-only progress backup and restore; settings included.
+- Independent background music controls.
+- Offline readiness checks actual cached asset availability.
+- JavaScript syntax passed (app and service worker).
+- Simulated service-worker tests passed: 35 assets, offline navigation, MP3 range playback, incomplete cache detection.
+- All 30 MP3 assets and English translation source are byte-identical to preceding build.
+- Physical-device installation, live offline testing, actual billing, audio rights and final listening checks remain outstanding.
+- No ads or subscriptions.

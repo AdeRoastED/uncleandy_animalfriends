@@ -1,0 +1,13 @@
+DRAFT — review before publication. Replace brackets and verify hosting / Android wrapper behavior.
+
+Uncle Andy Animal Friends — Adeba Studio
+Effective date: [date of release]
+Contact: [developer support email]
+
+This app is designed for young children to explore animals and enjoy stories with a grown-up. The current app does not include advertising, third-party analytics SDKs, accounts, chat, location access, camera or microphone access. Stickers, reading positions, game progress and preferences are stored locally on the device. A parent can reset progress in the grown-up corner or clear the app's local data. Local data may be lost when the app is removed or browser storage is cleared.
+
+The current web app does not process payments. A production version with purchases will require an updated policy describing the applicable app store's payment and purchase information handling. No payment credentials should be collected by this app itself.
+
+The app uses included audio and, where available, an English speech voice marked as local by the device. If such a voice is unavailable, a grown-up can read the text aloud. The hosting provider may process standard web access requests and logs; [verify and describe hosting provider, data retention and contact].
+
+For privacy questions or requests, contact [developer support email]. Review the policy against the actual final Android implementation and applicable children's privacy requirements before publication.

@@ -1,0 +1,28 @@
+UNCLE ANDY ANIMAL FRIENDS — CONSOLIDATED ENGLISH STORY BUILD
+
+Changes
+- Finished the 14 remaining bedtime story expansions: Ice, Forest, Night and Legends worlds. All 30 books now have the welcome plus nine narrative pages. The 14 new expansions are 455–478 words each, excluding the welcome.
+- Preserved the original Sunny story, original Uncle Andy welcome and 15 previously expanded books exactly as stored in the earlier ZIP.
+- Updated all 271 unique bedtime narration entries (one shared welcome, 270 story pages) in the ElevenLabs CSV.
+- Added five original fictional creature sound effects, two original stylised underwater ambience MP3s and two original music loops rendered from the existing app melodies. No real animal calls are included. Labels distinguish fictional effects, water ambience and spoken imitations. Real animal calls must be licensed and reviewed before enabling them. The quiz excludes fictional creatures and underwater ambience, and ignores repeated taps after a correct answer.
+- Explicitly set English for device speech fallback and book-specific narration routing.
+
+Validated
+- All 30 books have 10 pages; all prior full-length books and original Sunny/welcome text unchanged.
+- Every unique bedtime narration path has the exact matching text and CSV paths are unique.
+- JavaScript syntax passed Node --check.
+- All nine MP3s decoded without error using FFmpeg.
+- Browser tests were attempted, but sandbox navigation was blocked and full HTML injection timed out. Physical Android/iOS testing is still required.
+
+Outstanding
+- 23 genuine animal recordings. Wikimedia source pages for the tokay gecko and wolf were checked, but download failed: network access/DNS unavailable and web fetch does not support Ogg binary audio. No remote playback or fake calls passed off as genuine.
+- Professional narration and optional songs; device text-to-speech remains as a fallback where available.
+- Individual scene artwork: existing animal/background artwork is reused.
+- Translations, educational/editorial review, real purchases, final mobile QA and publication preparation. English only; not release-ready.
+
+AUDIO REVIEW UPDATE
+Eight supplied recordings converted, trimmed, normalized and enabled as explicitly labelled previews for private testing. 15 recordings still missing. No listening or license clearance performed. Source and edit records in received_audio_sources.csv. All stories unchanged; Node syntax and FFmpeg decode checks passed.
+
+Latest audio update: 16 recording previews included; 7 real animal sounds still missing: Echo the Hippo, Mimi the Cat, Ella the Elephant, Zuri the Giraffe, Nanu the Polar Bear, Fen the Fennec Fox, Nico the Hedgehog. Eight newly supplied recordings converted and enabled; quiet squirrel and zebra clips amplified. All recordings require listening/species/rights review. Earlier counts above are historical. Offline asset list and cache version refreshed. Stories unchanged.
+
+Latest correction: 21 recording previews; only Nanu the Polar Bear, Fen the Fennec Fox missing. Five previously omitted user uploads integrated. Duplicate orangutan upload not added. Latest downloader source metadata recorded; rights not verified. Stories unchanged.

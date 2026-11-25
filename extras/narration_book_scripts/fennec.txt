@@ -1,0 +1,76 @@
+FEN'S COOL BURROW
+Narration script • English
+Record each page separately. Read only the story text; do not read labels or filenames.
+The welcome is shared; use 00-welcome.txt once.
+
+================================================
+Morning · page 1
+Target: audio/bedtime/fennec-page-02.mp3
+Fen's Morning — 1
+
+Fen the fennec fox was the proud owner of two enormous ears. “One for listening to the left, and one for listening to the right,” he announced as he trotted across the Sahara sand at sunrise. His ears helped him detect tiny movements, and their large surface helped him release body heat.
+
+================================================
+Morning · page 2
+Target: audio/bedtime/fennec-page-03.mp3
+Fen's Morning — 2
+
+Near the family burrow, Fen paused beside a rock that cast a little shadow. His furry feet helped protect his paws from the hot sand, but he knew the day would soon become much too warm for playing outside. He noticed that the ground near the rock stayed firmer than the loose sand around it.
+
+Fen stood in the little patch of shade and listened. The desert seemed quiet until he stopped moving, and then he began to notice the wind brushing the sand and a faint scratching somewhere nearby. His enormous ears helped him hear such small sounds, as well as helping his body lose heat. He turned them towards the burrow, where Mother was calling him. The ground was already becoming warmer. Fen scampered towards the entrance he liked best, without giving much thought to the other opening on the far side of the familiar rock.
+
+================================================
+Morning · page 3
+Target: audio/bedtime/fennec-page-04.mp3
+Fen's Morning — 3
+
+Mother called him underground, where the air felt cooler. Their burrow had several passages and openings. Fen liked one entrance best because he could pop through it like a cork from a bottle. “Why do we need the other one?” he asked. Mother smiled. “A home with more than one way out can be very useful.”
+
+================================================
+Afternoon · page 1
+Target: audio/bedtime/fennec-page-05.mp3
+Fen's Afternoon — 1
+
+During the afternoon, wind swept across the desert above them. Fen woke briefly when sand whispered down the entrance to his favourite passage. Mother kept the young foxes resting in the cooler chamber. “Is the desert having a very large sneeze?” Fen wondered. His sister gave him a sleepy little yip.
+
+Above the resting foxes, the wind moved loose sand from one place to another. Fen heard a gentle hiss at the mouth of the passage. When he opened his eyes, he could see a little pile of sand where the light usually appeared. Mother kept the young foxes inside the cooler burrow until the evening. Fen was not worried about the whole desert moving, but he did wonder whether his favourite doorway would still be easy to use. He thought about the other opening and the rock they had passed in the morning.
+
+================================================
+Afternoon · page 2
+Target: audio/bedtime/fennec-page-06.mp3
+Fen's Afternoon — 2
+
+As dusk approached, Mother investigated the entrances. Loose sand had drifted across Fen's favourite opening. Fen was disappointed; he had been looking forward to his evening bounce. But Mother led the family through another familiar tunnel, emerging near the rock that Fen had noticed earlier. The air outside was finally cooler.
+
+================================================
+Afternoon · page 3
+Target: audio/bedtime/fennec-page-07.mp3
+Fen's Afternoon — 3
+
+Fen stopped to listen. Beneath the sand, something made a faint scratching sound. He turned his ears, took a few delicate steps and began searching for an insect. His sister found another little creature nearby. Their evening meal was much easier to find when they were patient and quiet rather than bouncing everywhere.
+
+Fen paused between the little patches of desert plants and turned his ears towards a faint sound. His sister noticed it too. They searched nearby without wandering far from their family. Above them, the sky was becoming a beautiful deep blue, and the sand was cooling. Fen's favourite entrance might still need time before it was comfortable to use again, but the other passage had allowed them to begin their evening normally. He decided it was rather nice to have another way home, especially in a place where the wind was always rearranging the sand.
+
+================================================
+Evening · page 1
+Target: audio/bedtime/fennec-page-08.mp3
+Fen's Evening — 1
+
+The stars began to sparkle above the dunes. Fen looked back at the rock and the burrow's alternate entrance. If his family had depended on just one passage, the drifting sand would have caused more trouble. He imagined the foxes building a palace with a hundred doors, each with its own name.
+
+================================================
+Evening · page 2
+Target: audio/bedtime/fennec-page-09.mp3
+Fen's Evening — 2
+
+“Perhaps one extra door is enough,” Mother laughed when he told her. Fen understood that being prepared didn't mean worrying about every possible surprise. It meant having sensible choices available. He and his sister explored close to the family, listening to the small sounds that other creatures might easily miss.
+
+Fen looked up at the first stars and imagined a grand burrow with a hundred doors, all opening at once. Then he imagined trying to remember which one led to his favourite sleeping chamber. That sounded exhausting. He was glad the family had a familiar, useful alternative rather than a complicated palace. Mother knew the burrow well, and Fen was beginning to learn its shape too. When he was ready to rest, he would know exactly which entrance to use. The desert could keep making its little changes; he had learned to notice them.
+
+================================================
+Evening · page 3
+Target: audio/bedtime/fennec-page-10.mp3
+Fen's Evening — 3
+
+Before the next sunrise, Fen returned to the burrow with his family. He settled into a cool chamber, folding his enormous ears comfortably against himself. Above them the desert waited for another hot day. Below, Fen dreamed of a palace with one hundred doors and a very polite wind that knocked before entering.
+

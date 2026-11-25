@@ -1,0 +1,3 @@
+RECORDING GUIDE
+
+Use a warm, calm, conversational storyteller voice. Allow suspense to build gently, not loudly. Give each animal a distinct but natural personality. Leave a small breath between paragraphs, slow down for the evening ending. The original welcome should sound like a personal greeting from Uncle Andy. Record each page in its own file using the target path. Do not read the page titles unless you intentionally want them narrated; the current source scripts omit titles. Keep music and effects separate. Avoid loud peaks, abrupt cuts and background noise. The exact spoken text is also in extras/elevenlabs_script.csv. After adding files, run python extras/rebuild_assets.py. These are scripts, not audio recordings.

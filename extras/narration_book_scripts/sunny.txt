@@ -1,0 +1,90 @@
+SUNNY
+Narration script • English
+Record each page separately. Read only the story text; do not read labels or filenames.
+The welcome is shared; use 00-welcome.txt once.
+
+================================================
+Morning · page 1
+Target: audio/bedtime/page-02.mp3
+Sunny's Morning
+
+"Here we are," mumbled Sunny the Capybara, her whiskered snout nudging a juicy clump of pond grass. "Another truly beautiful day in my personal wonderland."
+
+The golden sunshine danced on the shimmering surface of the lake, and the little frogs hummed a sleepy tune while bigger frogs joined in with deep, rumbling croaks, creating a beautiful morning orchestra. In the background, Sunny and her family listened, occasionally adding their own soft whistles as they munched on sweet watergrass. Sunny herself even gave a gentle whistle, a tiny tune, as the brave little bird landed softly and delicately groomed her broad, flat back. She just blinked her kind, brown eyes, enjoying the gentle tickle.
+
+================================================
+Morning · page 2
+Target: audio/bedtime/page-03.mp3
+Sunny's Morning
+
+"Ah, it's the perfect time for grazing!" Sunny sighed, a contented rumble deep in her chest, as she glanced up at the fluffy white clouds drifting across the wide, blue sky. "It looks like it might rain later, but for now, it's glorious."
+
+Once Sunny had finished her delicious breakfast of tender grasses and sweet water lilies, she began to think about her next task.
+
+================================================
+Morning · page 3
+Target: audio/bedtime/page-04.mp3
+Sunny's Morning
+
+With a happy splash, Sunny waddled towards the lake's shallow edge. She wasn't alone, not at all! Her big, bustling family and many friendly capybara cousins were already busy, collecting all sorts of yummy water plants. Together, they gathered crunchy cattails, leafy water hyacinths, and more juicy reeds.
+
+"We need to hurry!" Sunny gently called out to the others, her voice a soft, rumbling bark. "The rain is coming, and I still need to take my morning nap!" She looked up at the sky, seeing cumulus clouds, puffy and fluffy like giant pieces of popcorn, tumbling slowly across the blue. She paused, then added with a happy sigh, "You see, Capybaras like me absolutely love napping right in the cool, refreshing water to stay nice and fresh! It's the best way to beat the heat and relax!"
+
+================================================
+Afternoon · page 1
+Target: audio/bedtime/page-05.mp3
+Sunny's Afternoon
+
+While the rest of her family and friends kept busily gathering their food, Sunny felt the midday heat starting to prickle her fur. "It's getting warmer and warmer," she sighed, looking for a way to cool down. Her whiskers twitched, and her nose found just the spot – a small, refreshing puddle of cool, soft mud!
+
+"Ah, finally, some relief!" Sunny mumbled happily as she gently eased herself into the silky, cool goo. The mud squished around her, coating her from head to paw. This little muddy haven was just for her. No chattering birds flew overhead, and the frogs kept their distance. "It's so peaceful here," she whispered, closing her eyes. "Now I can truly take my morning nap, even if the rain is coming later." Sunny stretched out, feeling the cool mud soak into her skin, and soon drifted off to sleep.
+
+================================================
+Afternoon · page 2
+Target: audio/bedtime/page-06.mp3
+Sunny's Afternoon
+
+During Sunny's wonderful, relaxing nap, the fluffy, popcorn-shaped clouds she had seen earlier had crept closer. They were now directly overhead, no longer looking like a tasty snack but growing darker and grayer. Then, a soft 'plip, plop' sound started. Tiny, cool raindrops began to fall, landing gently on Sunny's whiskers and nose.
+
+"Ohhh!" Sunny mumbled, stirring slowly. "I guess my nap is over!" She stretched lazily, feeling completely refreshed and wide awake. "But it was a good nap! I feel so cool now!" she whispered, slowly emerging from the delightful mud puddle. Her eyes blinked open, wide and curious. "But now... I'm hungry again! And there's nothing I like to eat in this mud. Time to move back!"
+
+================================================
+Afternoon · page 3
+Target: audio/bedtime/page-07.mp3
+Sunny's Afternoon
+
+As Sunny squelched out of her muddy bath, the temperature began to feel much more comfortable. The sun, though still bright, was gentler now. She looked towards her group and smiled. "Look at them!" she whispered to herself. Most of her big family were resting peacefully in the shade of the tall water plants, or half-submerged in the cool lake. "They look so cute!" Sunny thought. "I think they decided to rest because of the rain, just like me. Capybaras often rest in the water or under thick plants during the day to keep cool and safe!"
+
+================================================
+Evening · page 1
+Target: audio/bedtime/page-08.mp3
+Sunny's Evening
+
+As Sunny squelched back to her group, the gentle rain began to fall a little harder. The hidden frogs seemed to love it, singing even louder from their watery hiding spots! One by one, Sunny's family started to stir, gently touched awake by the cool drops and the lively frog chorus.
+
+"I'm back!" Sunny cheerfully announced, her voice a happy bark that helped wake the last few sleepy capybaras who were still trying to snatch another moment of rest. Her wide, hungry eyes scanned the green plants. "I hope you saved some yummy greens for me!"
+
+Under the light of a big, bright moon, the capybaras began to munch on the delicious plants they had gathered. It was a peaceful scene of quiet munching and soft whistles.
+
+================================================
+Evening · page 2
+Target: audio/bedtime/page-09.mp3
+Sunny's Evening
+
+Suddenly, a loud, sharp whistle pierced the night! It came from a bigger capybara, calling everyone to reunite. Danger was near! A group of shadowy crocs were hunting, moving closer to their peaceful spot. Sunny didn't waste a second. She was smart, and she knew it was time to hide!
+
+"Everyone, listen!" Sunny whispered urgently. "I saw a nice, big, muddy puddle not far from here. I think we'll be much safer there!" She was right – the thick mud helped them blend into the murky ground, making them harder for the crocs to spot. "Let's grab a few more delicious plants, we still have a tiny bit of time!"
+
+Moving swiftly as a group, grinding their leafy greens, they followed Sunny under the moon's silvery glow. "The moon will guide us," Sunny murmured, "and soon the big clouds will help us too, hiding the moon so we're extra safe." They slipped into the muddy place, disappearing beneath the tall, dense vegetation.
+
+================================================
+Evening · page 3
+Target: audio/bedtime/page-10.mp3
+Sunny's Evening
+
+The crocs swam past, unable to smell their hidden dinner. The capybaras were safe for another day!
+
+"Ohhh, what a beautiful but exhausting day," Sunny muttered, still munching on her greens, feeling full and content. "Another day is gone, but a new one will start soon!"
+
+The moon was finally covered by the clouds, casting shadows over the hidden capybaras. Safe and sound, some kept eating, while others, already cozy, drifted off to sleep, dreaming of tomorrow's sun.
+

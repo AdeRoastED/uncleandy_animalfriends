@@ -1,0 +1,40 @@
+UNCLE ANDY ANIMAL FRIENDS — EXPANDED STORY EDITION
+25 November 2026 | Adeba Studio
+
+WHAT CHANGED
+All 29 companion stories were expanded with original character-specific prose on
+four of their nine narrative pages. This adds 10,382 words in total, with more
+sensory description, dialogue, emotional stakes, observation and plot payoff.
+The stories retain their titles, characters, original plots, three chapters and
+peaceful endings. Each revised story is 810–924 words (mean 859), excluding the
+shared welcome. Sunny remains exactly 1,042 narrative words. The original Uncle
+Andy welcome and all ten Sunny pages are unchanged.
+
+Reading improvements: a prominent story title, approximate reading duration
+(estimated at 115 words per minute, excluding welcome), top-of-page narration
+button, optional Start adventure button after Uncle Andy's welcome, and more
+comfortable line spacing/line length. All previous discovery, colouring,
+Italian field guide, games, favourites, passport and parental features remain.
+All 116 changed narration entries have been synchronized with the revised
+book text. 271 unique story narration scripts and 423 total script rows.
+See story_editorial_inventory.csv for per-story counts.
+
+VERIFICATION
+- All 30 books / 300 pages / 270 discovery prompts tested in local Chromium.
+- Free/locked books, duration labels, welcome-to-story navigation, quick read
+  button state, muted narration fallback and four reader widths passed.
+- JavaScript and service-worker syntax passed; 65 cache paths present.
+- Exact equality of original Sunny and shared welcome objects verified.
+- All existing audio, colouring art and icons byte-for-byte preserved.
+- Narration CSV agrees with every page of every book.
+
+RELEASE LIMITATIONS
+The browser environment blocks local HTTP navigation; the HTML browser tests
+used loaded local content with a storage stub. Real PWA installation, actual
+cache operation, physical-device speech and mobile testing are not verified.
+This is a development build, not a publishable paid app. Professional recorded
+narration, distinct illustrations for each scene, complete Italian/other
+translations, two missing animal calls (polar bear and fennec fox), authenticity
+and commercial rights review of the 21 existing animal recordings, and real
+Google Play Billing remain outstanding. The €9.99 permanent pass is a proposed
+price, not evidence of demand. The app remains ad-free and subscription-free.
